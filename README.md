@@ -34,7 +34,8 @@ Notes:
 - This app may show security warnings on Windows/macOS when distributed without code signing.
 - Keep the app file and .pck file together in the same folder.
 
-====================
+====================  
+  
 DesktopHatter をご利用いただきありがとうございます。
 
 この配布パッケージには、OS別のフォルダが含まれています:
